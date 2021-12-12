@@ -16,10 +16,10 @@ Este aplicativo utiliza as seguintes web-technologies:
 8. **sweetalert2** - criar pop-ups responsivos e customizáveis em javascript.
 
 ### Recursos por implementar no futuro
-[] **typescript** para debug o código enquanto em desenvolvimento
-[] **x-state** - descrever o comportamento do aplicativo, dos componenetes individuais e da lógica do aplicativo em geral.
-[] **bootstrap** - tornar a página responsiva e com design mais elegante.
-[] **gsap** - pequenas animações no mount e unmount dos componentes. 
-[] **unit tests com jest** - testar unidades do código para garantir que atenda ao seu design e se comporte conforme pretendido.
+-[ ] **typescript** para debug o código enquanto em desenvolvimento
+-[ ] **x-state** - descrever o comportamento do aplicativo, dos componenetes individuais e da lógica do aplicativo em geral.
+-[ ] **bootstrap** - tornar a página responsiva e com design mais elegante.
+-[ ] **gsap** - pequenas animações no mount e unmount dos componentes. 
+-[ ] **unit tests com jest** - testar unidades do código para garantir que atenda ao seu design e se comporte conforme pretendido.
 
 ### Demo: https://weslienlive.github.io/restcountries/
