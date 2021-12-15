@@ -16,7 +16,7 @@ Este aplicativo utiliza as seguintes web-technologies:
 8. **sweetalert2** - criar pop-ups responsivos e customizáveis em javascript.
 
 ### Recursos por implementar no futuro
-- [ ] **typescript** para debug o código enquanto em desenvolvimento
+- [x] **typescript** para debug o código enquanto em desenvolvimento (check typescript branch)
 - [ ] **x-state** - descrever o comportamento do aplicativo, dos componenetes individuais e da lógica do aplicativo em geral.
 - [ ] **bootstrap** - tornar a página responsiva e com design mais elegante.
 - [ ] **gsap** - pequenas animações no mount e unmount dos componentes. 
